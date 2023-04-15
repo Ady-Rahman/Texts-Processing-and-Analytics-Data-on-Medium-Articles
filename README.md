@@ -12,16 +12,16 @@
 ### Analytics Process:
 - [x] Read CSV
 - [x] Data Cleaning
-[x] Collect All Title
-[x] Text Processing
-   [x] Case Folding
-   [x] Tokenizing 
-   [x] Filtering (Stopword Removal)
-   [x] Steming Process
-[x] Visualisation
-   [x] Line Chart
-   [x] BoxPlot
-   [x] Chart Bar
+- [x] Collect All Title
+- [x] Text Processing
+  - [x] Case Folding
+  - [x] Tokenizing 
+  - [x] Filtering (Stopword Removal)
+  - [x] Steming Process
+- [x] Visualisation
+  - [x] Line Chart
+  - [x] BoxPlot
+  - [x] Chart Bar
    
 
 ### **Reference :**
