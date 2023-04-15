@@ -7,11 +7,11 @@
 4. Graph Preview
 
 ### Program Goals :
-[x] Knowing the Strategy for Writing Article Titles on medium platforms so that articles will appear more often by user searches
+- [x] Knowing the Strategy for Writing Article Titles on medium platforms so that articles will appear more often by user searches
 
 ### Analytics Process:
-[x] Read CSV
-[x] Data Cleaning
+- [x] Read CSV
+- [x] Data Cleaning
 [x] Collect All Title
 [x] Text Processing
    [x] Case Folding
