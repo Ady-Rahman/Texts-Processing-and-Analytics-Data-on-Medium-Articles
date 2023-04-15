@@ -14,17 +14,17 @@
 - [x] Data Cleaning
 - [x] Collect All Title
 - [x] Text Processing
-  - [x] Case Folding
-  - [x] Tokenizing 
-  - [x] Filtering (Stopword Removal)
-  - [x] Steming Process
+    + Case Folding
+    + Tokenizing 
+    + Filtering (Stopword Removal)
+    + Steming Process
 - [x] Visualisation
-  - [x] Line Chart
-  - [x] BoxPlot
-  - [x] Chart Bar
+    + Line Chart
+    + BoxPlot
+    + Chart Bar
    
 
 ### **Reference :**
-Dataset : [Link](https://www.kaggle.com/datasets/arnabchaki/medium-articles-dataset)
-Package : [Link](https://github.com/nltk/nltk)
+### **Dataset : [https://www.kaggle.com/datasets/arnabchaki/medium-articles-dataset](https://www.kaggle.com/datasets/arnabchaki/medium-articles-dataset)
+### Package : [https://github.com/nltk/nltk](https://github.com/nltk/nltk)
 
